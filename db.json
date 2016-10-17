@@ -1,22 +1,35 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
+      "name": "Jessy",
+      "color": 5,
+      "email": "okeyraka@yahoo.com",
+      "gender": "♀Female",
+      "suggestion": "hacker modehacker modehacker modehacker modehacker modehacker mode",
+      "satisfy": "No",
       "movies": [
-        "harry potter"
+        "Cookbooks",
+        "Drama",
+        "Romance",
+        "Health",
+        "Poetry"
       ],
-      "gender": "male",
       "id": 1
     },
     {
-      "name": "Diccion",
-      "color": "blue",
+      "name": "Christian John Labang",
+      "color": 5,
+      "email": "christianjohnlabang@gmail.com",
+      "gender": "♂Male",
+      "suggestion": "anything anythinganything anythinganything anythinganything anythinganything anythinganything anything",
+      "satisfy": "Yes",
       "movies": [
-        "harry potter"
+        "Science fiction",
+        "Horror",
+        "Health",
+        "Math"
       ],
-      "gender": "male",
-      "id": 4
+      "id": 2
     }
   ]
 }
